@@ -326,6 +326,7 @@ li.list-detail {
 }
 
 
+
 /* WHY US SECTION */
 
 .title-whyus {
@@ -363,7 +364,9 @@ p.card-detail-list {
     line-height: 20px;
 }
 
-
+.mb-4{
+    width: 33px;
+}
 
 /* TESTIMONIAL SECTION*/
 
