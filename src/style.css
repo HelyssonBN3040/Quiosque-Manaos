@@ -464,7 +464,9 @@ button.button-action {
     margin-top: 30px;
 }
 
-
+.logoBtm{
+    width: 60px;
+}
 
 /* FAQ SECTION */
 .heading-faq {
